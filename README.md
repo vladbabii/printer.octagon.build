@@ -1,2 +1,1 @@
-# printer.octagon.build
-Printer - Octagon - Build
+# Printer - Octagon - Build
